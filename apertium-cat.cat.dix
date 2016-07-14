@@ -31191,6 +31191,7 @@
 <e r="LR" lm="el Temps"> <i>el<b/>Temps</i><par n="ABC__np"/></e>
 <e r="RL" lm="el Punt">  <p><l><a/>el<b/>Punt</l><r>el<b/>Punt</r></p><par n="ABC__np"/></e>
 <e r="LR" lm="el Punt">  <i>el<b/>Punt</i><par n="ABC__np"/></e>
+<e r="RL" lm="les Corts"> <p><l><a/>les<b/>Corts</l><r>les<b/>Corts</r></p><par n="ABC__np"/></e>
 <e lm="Almoines">        <i>Almoines</i><par n="Afganistan__np"/></e>
 <e lm="Pedrera">         <i>Pedrera</i><par n="Afganistan__np"/></e>
 <e lm="Varennes">        <i>Varennes</i><par n="Afganistan__np"/></e>
