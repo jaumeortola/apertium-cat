@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!--
 	Dictionary:
 	Sections: 4
@@ -30580,7 +30580,8 @@
 <e lm="suïcidi">         <i>suïcidi</i><par n="abric__n"/></e>
 <e lm="sàtira">          <i>sàtir</i><par n="abell/a__n"/></e>
 <e lm="sègol">           <i>sègol</i><par n="abric__n"/></e>
-<e lm="sèquia">          <i>sèqui</i><par n="abell/a__n"/></e>
+<e r="LR" lm="sèquia">   <i>sèqui</i><par n="abell/a__n"/></e>
+<e lm="séquia">          <i>séqui</i><par n="abell/a__n"/></e>
 <e lm="sèquit">          <i>sèquit</i><par n="abric__n"/></e>
 <e lm="sèrie">           <i>sèrie</i><par n="accessibilitat__n"/></e>
 <e lm="símbol">          <i>símbol</i><par n="abric__n"/></e>
