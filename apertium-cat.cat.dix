@@ -35237,6 +35237,7 @@
 <e r="LR" lm="vacil·lar"><p><l>vaciŀl</l>    <r>vacil·l</r></p><par n="abander/ar__vblex"/></e>
 <e lm="vacunar">         <i>vacun</i><par n="abander/ar__vblex"/></e>
 <e lm="valer">           <i>val</i><par n="equival/er__vblex"/></e>
+<e lm="valer la pena">   <i>val</i><par n="equival/er__vblex"/><p><l><b/>la<b/>pena</l><r><g><b/>la<b/>pena</g></r></p></e>
 <e lm="vallejar">        <i>valle</i><par n="agreu/jar__vblex"/></e>
 <e lm="valorar">         <i>valor</i><par n="abander/ar__vblex"/></e>
 <e lm="variar">          <i>vari</i><par n="acarici/ar__vblex"/></e>
