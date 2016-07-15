@@ -35066,6 +35066,7 @@
 <e lm="seriar">          <i>seri</i><par n="acarici/ar__vblex"/></e>
 <e lm="serrar">          <i>serr</i><par n="abander/ar__vblex"/></e>
 <e lm="servir">          <i>serv</i><par n="abarat/ir__vblex"/></e>
+<e lm="extradir">        <i>extrad</i><par n="abarat/ir__vblex"/></e>
 <e lm="seure">    <i>s</i><par n="ass/eure__vblex"/></e>
 <e lm="signar">          <i>sign</i><par n="abander/ar__vblex"/></e>
 <e lm="significar">      <i>signifi</i><par n="abo/car__vblex"/></e>
