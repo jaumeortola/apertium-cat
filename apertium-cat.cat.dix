@@ -34280,6 +34280,7 @@
 <e lm="fer">             <i>f</i><par n="f/er__vblex"/></e>
 <e lm="fer front">       <i>f</i><par n="f/er__vblex"/><p><l><b/>front</l><r><g><b/>front</g></r></p></e>
 <e lm="fer fora">        <i>f</i><par n="f/er__vblex"/><p><l><b/>fora</l><r><g><b/>fora</g></r></p></e>
+<e lm="fer una mitjana de"><i>f</i><par n="f/er__vblex"/><p><l><b/>una<b/>mitjana<b/>de</l><r><g><b/>una<b/>mitjana<b/>de</g></r></p></e>
 <e lm="fer escala" a="prompsit2uoc"><i>f</i><par n="f/er__vblex"/><p><l><b/>escala</l><r><g><b/>escala</g></r></p></e>
 <e lm="fer miques">      <i>f</i><par n="f/er__vblex"/><p><l><b/>miques</l><r><g><b/>miques</g></r></p></e>
 <e lm="ferir">           <i>fer</i><par n="abarat/ir__vblex"/></e>
@@ -56141,7 +56142,7 @@
 <e lm="externat">        <i>externat</i><par n="abric__n"/></e>
 <e lm="extranet">        <i>extranet</i><par n="accessibilitat__n"/></e>
 <e lm="extraterritorialitat"><i>extraterritorialitat</i><par n="accessibilitat__n"/></e>
-<e lm="exègesi">         <i>exègesi</i><par n="accessibilitat__n"/></e>
+<e lm="exegesi">         <i>exegesi</i><par n="accessibilitat__n"/></e>
 <e lm="exèquies">        <i>exèquies</i><par n="escombraries__n"/></e>
 <e lm="fac.">            <i>fac.</i><par n="càries__n"/></e>
 <e lm="facs.">           <i>facs.</i><par n="campus__n"/></e>
