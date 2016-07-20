@@ -33549,6 +33549,7 @@
 <e lm="cansar">          <i>cans</i><par n="abander/ar__vblex"/></e>
 <e lm="cantar">          <i>cant</i><par n="abander/ar__vblex"/></e>
 <e lm="canviar">         <i>canvi</i><par n="acarici/ar__vblex"/></e>
+<e lm="canviar">         <i>canvi</i><par n="acarici/ar__vblex"/><p><l><b/>el<b/>nom</l><r><g><b/>el<b/>nom</g></r></p></e>
 <e lm="capacitar">       <i>capacit</i><par n="abander/ar__vblex"/></e>
 <e lm="capar">           <i>cap</i><par n="abander/ar__vblex"/></e>
 <e r="LR" lm="capgirar"> <i>capgir</i><par n="abander/ar__vblex"/></e>
